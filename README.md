@@ -1,7 +1,7 @@
 # To-Do List Application
 
 A simple, interactive To-Do List application that helps users manage their tasks effectively.
-Doesn't use database(still need to learn how :( )
+Doesn't use database[still need to learn how :(   ].
 Colour scheme is gonna be all over the place bcuz i am bad at it .
 
 ## Features
